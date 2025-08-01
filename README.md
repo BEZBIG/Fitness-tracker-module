@@ -58,3 +58,5 @@ Fitness-tracker-module/
 ├── README.md             # Документация по проекту
 └── setup.cfg             # Общая конфигурация проекта
 ```
+## Результат тестирования
+!(https://github.com/BEZBIG/Fitness-tracker-module/blob/main/tests/test_results.png)
