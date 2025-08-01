@@ -59,4 +59,4 @@ Fitness-tracker-module/
 └── setup.cfg             # Общая конфигурация проекта
 ```
 ## Результат тестирования
-!(https://github.com/BEZBIG/Fitness-tracker-module/blob/main/tests/test_results.png)
+![](https://github.com/BEZBIG/Fitness-tracker-module/blob/main/tests/test_results.png)
